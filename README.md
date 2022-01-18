@@ -4,6 +4,8 @@
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Deployment](#deployment)
+- [Expected Visuals](#expected-visual)
+- [Project Visuals](#project-visual)
 
 ## HTML, CSS, JavaScript, and Git:
  04 Web APIs: Code Quiz
@@ -40,7 +42,12 @@ Two options are provided the first one is link and second one thats click me tha
   - https://dparmar32.github.io/coding_quiz_challenge/
   - [Click Here](https://dparmar32.github.io/coding_quiz_challenge/)
 
+## Expected Visual
+![expectedVisuals](./assets/images/04-web-apis-homework-demo.gif)
 
+## Project Visual
+![codequiz](./assets/images/codeQuiz.png)
+![highscore](./assets/images/highscores.png)
 ---
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
